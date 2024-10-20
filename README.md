@@ -8,7 +8,7 @@ En este mercado altamente competitivo, la industria de las telecomunicaciones ex
 Dado que cuesta entre 5 y 10 veces más adquirir un nuevo cliente que retener uno existente, la retención de clientes
 ahora se ha vuelto incluso más importante que la adquisición de clientes.
 
-Una empresa de telecomunicaciones desea mejorar la retención de clientes identificando a aquellos que tienen más probabilidades de perder sus clientes.
+Una empresa de telecomunicaciones desea mejorar la retención de clientes identificando a aquellos que tienen más probabilidades de irse de la empresa.
 
 Como científico de datos, nuestro objetivo será limpiar y preparar un conjunto de datos para entrenar un modelo de pérdida de clientes. A continuación, se presentan las preguntas clave que guiarán el proceso de limpieza de datos:
 ## Objetivos:
